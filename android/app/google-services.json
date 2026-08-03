@@ -14,20 +14,20 @@
       },
       "oauth_client": [
         {
-          "client_id": "202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com",
+          "client_id": <your-client>,
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAaF2WjDVY4ccU3l2K51V7voQ26zYq_lMY"
+          "current_key": <input-key>
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com",
+              "client_id": <your-client>,
               "client_type": 3
             }
           ]
@@ -43,7 +43,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "202745059405-bm1a6qd5c5gqf67ocjglih3emnf778tm.apps.googleusercontent.com",
+          "client_id":<your-client>,
           "client_type": 1,
           "android_info": {
             "package_name": "com.rahul.predictorApp",
@@ -51,20 +51,20 @@
           }
         },
         {
-          "client_id": "202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com",
+          "client_id": <your-client>,
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAaF2WjDVY4ccU3l2K51V7voQ26zYq_lMY"
+          "current_key": <your-key>
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com",
+              "client_id": <your-client>",
               "client_type": 3
             }
           ]
