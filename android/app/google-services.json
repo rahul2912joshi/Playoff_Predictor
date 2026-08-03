@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "202745059405",
+    "project_id": "playoff-predictor-934b7",
+    "storage_bucket": "playoff-predictor-934b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202745059405:android:ed44763e1d2d4341702404",
+        "android_client_info": {
+          "package_name": "com.rahul.playoffpredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaF2WjDVY4ccU3l2K51V7voQ26zYq_lMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202745059405:android:d249a37790883e00702404",
+        "android_client_info": {
+          "package_name": "com.rahul.predictorApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202745059405-bm1a6qd5c5gqf67ocjglih3emnf778tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahul.predictorApp",
+            "certificate_hash": "d7f3e2a9e9dedff89eb2a8b48d8ed568a772dc04"
+          }
+        },
+        {
+          "client_id": "202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaF2WjDVY4ccU3l2K51V7voQ26zYq_lMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "com.rahul.playoffpredictor",
+  "appName": "playoff-predictor",
+  "webDir": "dist",
+  "plugins": {
+    "GoogleSignIn": {
+      "clientId": "202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com"
+    }
+  }
+}

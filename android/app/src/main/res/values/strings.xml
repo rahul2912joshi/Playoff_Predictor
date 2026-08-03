@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">playoff-predictor</string>
+    <string name="title_activity_main">playoff-predictor</string>
+    <string name="package_name">com.rahul.playoffpredictor</string>
+    <string name="custom_url_scheme">com.rahul.playoffpredictor</string>
+    <string name="server_client_id">202745059405-dcjv75spujuas7tdsn1sh8vd9fnkittu.apps.googleusercontent.com</string>
+</resources>
