@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCl0R77R1ua88jmBVbd6RDayBTs8tjD4Zw",
+  apiKey: <api-key>,
   authDomain: "playoff-predictor-934b7.firebaseapp.com",
   projectId: "playoff-predictor-934b7",
   storageBucket: "playoff-predictor-934b7.firebasestorage.app",

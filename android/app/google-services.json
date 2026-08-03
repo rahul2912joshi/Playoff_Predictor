@@ -20,7 +20,7 @@
       ],
       "api_key": [
         {
-          "current_key": <your-key>
+          "current_key": <input-key>
         }
       ],
       "services": {
@@ -43,7 +43,7 @@
       },
       "oauth_client": [
         {
-          "client_id": <your-client>,
+          "client_id":<your-client>,
           "client_type": 1,
           "android_info": {
             "package_name": "com.rahul.predictorApp",
@@ -64,7 +64,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": <your-client>,
+              "client_id": <your-client>",
               "client_type": 3
             }
           ]
